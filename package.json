@@ -1,0 +1,26 @@
+{
+  "name": "learnlist",
+  "version": "1.0.0",
+  "description": "instructional design excellence",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanDubs/learnlist.git"
+  },
+  "keywords": [
+    "learn",
+    "list",
+    "checklist",
+    "instructional",
+    "design"
+  ],
+  "author": "Walker Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanDubs/learnlist/issues"
+  },
+  "homepage": "https://github.com/DeanDubs/learnlist#readme"
+}
