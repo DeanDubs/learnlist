@@ -1,0 +1,2 @@
+LearnList is a project designed to create actionable instructional design checklist from the most prestigious and well-regarded learning science literature.
+When completed, LearnList will consist of a database of attributed and tagged checklist items, and an interface for compiling subsets of those items into interactive checklists depending on project parameters such as topic area, level of rigor, intended curriculum length, learner population, and modality.
